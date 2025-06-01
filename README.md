@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Víctor Ruiz Sánchez
 
-<!--
-**Binary01Sensei/Binary01Sensei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Apasionado por la ciberseguridad, con formación en análisis de vulnerabilidades, pentesting y cumplimiento normativo (ISO 27001, NIST).
 
-Here are some ideas to get you started:
+💻 Experiencia previa como programador Java (Spring, SQL) y en automatización de procesos con herramientas como Wireshark, Nessus y Nmap.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐧 Me interesa todo lo relacionado con la defensa de sistemas, OSINT y análisis forense.
+
+## 🔐 Tecnologías y herramientas
+
+- 🛡️ Ciberseguridad: Nmap, Wireshark, Nessus, Metasploit, OSINT
+- 💻 Lenguajes: Java, Python (básico), SQL, Bash
+- 🐧 Sistemas: Linux (Kali, Ubuntu), Windows
+- ⚙️ Otras herramientas: Git, VirtualBox, JUnit, Mockito
+
+## 📂 Proyectos destacados
+
+- [`vulnerability-scanner`](https://github.com/Binary01Sensei/vulnerability-scanner): Script de escaneo automatizado usando Nmap.
+- [`linux-hardening-lab`](https://github.com/Binary01Sensei/linux-hardening-lab): Práctica de hardening de un sistema Linux con checklist de seguridad.
+- [`osint-lookup-tool`](https://github.com/Binary01Sensei/osint-lookup-tool): Herramienta básica de OSINT con búsquedas automatizadas.
+
+## 📫 ¿Dónde encontrarme?
+- ✉️ victor.ruiz.sanchez.vrs@gmail.com
+- 💼 [LinkedIn](https://linkedin.com/in/victor-ruiz-sanchez)
+
